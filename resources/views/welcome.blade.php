@@ -63,7 +63,7 @@
           </div>
 
           <div class="header-buttons">
-            <a href="{{asset('assets/doc/CV_Diego_Fernando_Jaramillo_Duran.pdf')}}"  target="_blank" class="btn btn-primary" download>Download CV</a>
+            <a href="{{asset('assets/img/foto/CV_Diego_Fernando_Jaramillo_Duran.pdf')}}"  target="_blank" class="btn btn-primary" download>Download CV</a>
           </div>
 
           {{-- <div class="copyrights">© 2020 All rights reserved.</div> --}}
